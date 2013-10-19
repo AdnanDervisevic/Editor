@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Editor</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.7.0_09</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>TextEditor</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Filtrering.java</path>
+			</fileitem>
+			<fileitem>
+				<path>help.html</path>
+				<url>help.html</url>
+				<browser>true</browser>
+			</fileitem>
+			<fileitem>
+				<path>Komprimering.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Krypto.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Program.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TextEditor.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ToolBarIcon.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

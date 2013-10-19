@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Editor</label>
+	</settings>
+	<users>
+		<user>
+			<path>Editor.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Editor.jcp</path>
+		</project>
+		<project>
+			<path>..\KodFrånLärare\KodFranLarare.jcp</path>
+		</project>
+	</projects>
+</workspace>

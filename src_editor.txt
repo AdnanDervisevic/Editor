@@ -1,0 +1,6 @@
+D:\Dropbox\Veritas\Texteditor\Editor\Filtrering.java
+D:\Dropbox\Veritas\Texteditor\Editor\Komprimering.java
+D:\Dropbox\Veritas\Texteditor\Editor\Krypto.java
+D:\Dropbox\Veritas\Texteditor\Editor\Program.java
+D:\Dropbox\Veritas\Texteditor\Editor\TextEditor.java
+D:\Dropbox\Veritas\Texteditor\Editor\ToolBarIcon.java
